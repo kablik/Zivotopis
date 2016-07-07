@@ -1,0 +1,49 @@
+* {
+    font-family: "Courier New"
+}
+
+body {
+    background-color: lightslategray;
+    min-width: 55em
+}
+
+#zakladne_udaje {
+    background-color: lightgrey
+}
+
+#uchadzac_o_zamestnanie {
+    background-color: thistle
+}
+
+#pracovne_skusenosti {
+    background-color: lightgrey
+}
+
+#vzdelanie {
+    background-color: thistle
+}
+
+#osobne_znalosti {
+    background-color: lightgrey
+}
+
+#dalsie_info {
+    background-color: thistle
+}
+
+table {
+    border: solid
+}
+
+section {
+    padding-left: 1%
+}
+
+nav {
+    background-color: lightgrey;
+    padding-left: 1%
+}
+
+h2 {
+    text-decoration: underline;
+}

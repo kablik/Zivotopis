@@ -1,0 +1,27 @@
+* {
+    font-family: "Courier New"
+}
+
+body {
+    min-width: 55em
+}
+
+table {
+    border: solid
+}
+
+section {
+    padding-left: 1%
+}
+
+nav {
+    padding-left: 1%
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+a {
+    color: black
+}

@@ -1,0 +1,25 @@
+div.jumbotron td {
+    padding-right: 1rem
+}
+
+p {
+    margin: 0
+}
+
+.block01 {
+    background-color: #eee;
+    border-radius: 6px
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+.col-sm-12 {
+    padding-bottom: 2rem
+}
+
+a:hover {
+    color: royalblue
+}
